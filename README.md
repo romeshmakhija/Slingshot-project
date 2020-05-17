@@ -1,1 +1,1 @@
-# Slingshot-project
+# Box Class
